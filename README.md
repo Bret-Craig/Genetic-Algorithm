@@ -1,1 +1,2 @@
 # Genetic-Algorithm
+This program simulates genetic development using Python and Pygame. The simulation starts by creating 5 bots, and many dots of food and poison. The bots will eat food and/or poison based on their DNA until only one bot survives. This remaining bot will pass on its DNA to a new generation of bots, and the cycle repeats. In theory, the DNA of these bots will continue to improve so that they survive longer.
